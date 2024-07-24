@@ -1,10 +1,5 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600|Arvo:700");
-@import url('https://unpkg.com/css.gg@2.0.0/icons/css/facebook.css');
-@import url('https://unpkg.com/css.gg@2.0.0/icons/css/instagram.css');
-@import url('https://unpkg.com/css.gg@2.0.0/icons/css/linkedin.css');
-@import url('https://unpkg.com/css.gg@2.0.0/icons/css/github.css');
-
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -2230,14 +2225,6 @@ input, select, textarea {
     transform: scale(1.2)translateY(-10px);
     color: rgb(34, 226, 143);
     border: 2px solid rgb(34, 226, 143);
-}
-.gg-facebook {
-    box-sizing: border-box;
-    position: relative;
-    display: block;
-    transform: scale(var(--ggs,1));
-    width: 20px;
-    height: 20px
 }
 .footer ul{
     margin-top: 0;
