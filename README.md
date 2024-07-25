@@ -1,13 +1,16 @@
 **Abdullah's Portfolio Website**
+
 Welcome to my personal portfolio website! This landing page showcases my projects, skills, and achievements. It serves as a hub to connect with potential collaborators and share my work. The site is built using HTML and CSS and will receive updates as I continue to grow and expand my portfolio.
 
 **Table of Contents**
+
 Installation
 Usage
 Contributing
 License
 Contact
 Installation
+
 If you'd like to set up the project locally or contribute, follow these steps:
 
 **Prerequisites**
@@ -16,6 +19,7 @@ You'll need:
 A web browser (e.g., Chrome, Firefox, Safari)
 A code editor (optional for customization)
 Installation Steps
+
 **Clone the repository:**
 
 bash
@@ -46,6 +50,7 @@ Make your changes.
 Commit your changes (git commit -m 'Add new feature').
 Push to the branch (git push origin feature/YourFeature).
 Open a Pull Request.
+
 **License**
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
